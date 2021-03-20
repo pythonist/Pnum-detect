@@ -1,1 +1,1 @@
-webapp gunicorn pnumapp:app
+web gunicorn pnumapp:app
