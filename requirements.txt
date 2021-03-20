@@ -8,3 +8,5 @@ itsdangerous
 Jinja2
 MarkupSafe
 opencv-python
+pillow
+h5py
