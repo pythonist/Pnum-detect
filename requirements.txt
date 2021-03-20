@@ -2,8 +2,11 @@ Werkzeug
 Flask
 numpy
 Keras
-gevent
-pillow
+Pillow
 h5py
 tensorflow
 gunicorn
+opencv-python
+itsdangerous
+Jinja2
+MarkupSafe
