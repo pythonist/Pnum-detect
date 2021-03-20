@@ -1,12 +1,13 @@
-Werkzeug
 Flask
-numpy
-Keras
-tensorflow-cpu
+h5py==2.10.0
 gunicorn
 itsdangerous
 Jinja2
 MarkupSafe
+Werkzeug
+numpy
+Keras
+tensorflow-cpu
 opencv-python-headless==4.2.0.32
 pillow
 gevent
