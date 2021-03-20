@@ -2,8 +2,6 @@ Werkzeug
 Flask
 numpy
 Keras
-Pillow
-h5py
 tensorflow
 gunicorn
 opencv-python
