@@ -74,7 +74,7 @@ def upload():
 		# In this model 1 is Pneumonia and 0 is Normal.
         str1 = ' Patient Normal'
         str2 = ' Patient has Pneumonia'
-        if (preds[0] == 1.):
+        if (preds[0] == 1):
             return str1
         else:
             return str2
