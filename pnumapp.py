@@ -23,7 +23,7 @@ app = Flask(__name__,template_folder='templates')
 
 
 #Load your trained model
-model = load_model('E:/project1/model_pneum.h5')
+model = load_model('model_pneum.h5')
 #model._make_predict_function()          # Necessary to make everything ready to run on the GPU ahead of time
 #print('Model loaded. Start serving...')
 
