@@ -4,7 +4,7 @@ numpy
 Keras
 tensorflow
 gunicorn
-opencv-python
+cv2
 itsdangerous
 Jinja2
 MarkupSafe
