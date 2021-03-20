@@ -2,9 +2,9 @@ Werkzeug
 Flask
 numpy
 Keras
-tensorflow
+tensorflow-cpu
 gunicorn
 itsdangerous
 Jinja2
 MarkupSafe
-opencv-python-headless
+opencv
